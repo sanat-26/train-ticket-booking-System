@@ -1,0 +1,22 @@
+[
+  {
+    "train_no": 22400,
+    "seats_info": [[0,0,0,0,0], [0,0,0,0,0], [0,0,0,0,0], [0,0,0,0,0], [0,0,0,0,0]],
+    "station_times": {
+      "Kanpur": "22:00:00",
+      "Prayagraj": "00:00:00",
+      "Patna": "05:00:00"
+    },
+    "stations": ["Kanpur","Prayagraj","Patna"]
+  },
+  {
+    "train_no": 22806,
+    "seats_info": [[0,0,0,0,0], [0,0,0,0,0], [0,0,0,0,0], [0,0,0,0,0], [0,0,0,0,0]],
+    "station_times": {
+      "Kanpur": "23:00:00",
+      "Prayagraj": "00:00:00",
+      "Patna": "04:00:00"
+    },
+    "stations": ["Kanpur","Prayagraj","Patna"]
+  }
+]
